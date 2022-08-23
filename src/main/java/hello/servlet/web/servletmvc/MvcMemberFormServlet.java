@@ -1,7 +1,5 @@
 package hello.servlet.web.servletmvc;
 
-import org.apache.coyote.Request;
-
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
